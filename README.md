@@ -5,7 +5,7 @@
 
 - I’m currently learning **Laravel and data structures**
 
-- 👨‍All of my projects are available at [https://github.com/WobniarelbuoD?tab=repositories](https://github.com/WobniarelbuoD?tab=repositories)
+- All of my projects are available at [https://github.com/WobniarelbuoD?tab=repositories](https://github.com/WobniarelbuoD?tab=repositories)
 
 - Ask me about **HTML/CSS, Javascript, React.js/Material UI, PHP, MySQL, Laravel.**
 
