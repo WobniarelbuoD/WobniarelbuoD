@@ -7,7 +7,7 @@
 
 - All of my projects are available at [https://github.com/WobniarelbuoD?tab=repositories](https://github.com/WobniarelbuoD?tab=repositories)
 
-- Ask me about **HTML/CSS, Javascript, React.js/Material UI, PHP, MySQL, Laravel.**
+- Ask me about **JAVA, Lotusscript, Formula language, jQuery, HTML/CSS, Javascript, React.js/Material UI, PHP, MySQL, Laravel.**
 
 - How to reach me **lukinganas@gmail.com**
 
