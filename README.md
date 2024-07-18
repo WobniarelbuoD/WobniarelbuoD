@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Lukas</h1>
 <h3 align="center">A Fullstack developer with a problem solving mindset.</h3>
 
-- I’m currently working on [My portfolio webpage](https://github.com/WobniarelbuoD/MyWebPage)
-
-- I’m currently learning **Laravel and data structures**
+- I’m currently working as a Full-stack engineer at Sekasoft.
 
 - All of my projects are available at [https://github.com/WobniarelbuoD?tab=repositories](https://github.com/WobniarelbuoD?tab=repositories)
 
