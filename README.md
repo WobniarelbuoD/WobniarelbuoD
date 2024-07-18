@@ -7,7 +7,7 @@
 
 - Ask me about **JAVA, Lotusscript, Formula language, jQuery, HTML/CSS, Javascript, React.js/Material UI, PHP, MySQL, Laravel.**
 
-- How to reach me **lukinganas@gmail.com**
+- How to reach me **lukas.mickevicius97@gmail.com**
 
 - Know about my experiences [https://www.linkedin.com/in/lukas-mickevicius-50aa52220/](https://www.linkedin.com/in/lukas-mickevicius-50aa52220/)
 
