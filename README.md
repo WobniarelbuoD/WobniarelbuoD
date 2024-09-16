@@ -9,7 +9,7 @@
 
 - How to reach me **lukas.mickevicius97@gmail.com**
 
-- Know about my experiences [https://www.linkedin.com/in/lukas-mickevicius-50aa52220/](https://www.linkedin.com/in/lukas-mickevicius-50aa52220/)
+- Know about my experiences [https://www.linkedin.com/in/lukas-mickevicius-50aa52220/](https://www.linkedin.com/in/lukas-mickevicius97)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
