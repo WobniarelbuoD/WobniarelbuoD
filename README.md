@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Lukas</h1>
 <h3 align="center">A Fullstack developer with a problem solving mindset.</h3>
 
-- I’m currently working as a Full-stack engineer at Sekasoft.
+- I’m currently working as a Drupal Developer at Baltic Amadeus.
 
 - All of my projects are available at [https://github.com/WobniarelbuoD?tab=repositories](https://github.com/WobniarelbuoD?tab=repositories)
 
-- Ask me about **JAVA, Lotusscript, Formula language, jQuery, HTML/CSS, Javascript, React.js/Material UI, PHP, MySQL, Laravel.**
+- Ask me about **JAVA, Lotusscript, Formula language, jQuery, HTML/CSS, Javascript, React.js/Material UI, PHP, MySQL, Laravel, Drupal.**
 
 - How to reach me **lukas.mickevicius97@gmail.com**
 
